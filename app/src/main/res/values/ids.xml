@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_category_name" type="id" />
+    <item name="tv_category_description" type="id" />
+    <item name="btn_profile" type="id" />
+    <item name="btn_show_dialog" type="id" />
+</resources>
